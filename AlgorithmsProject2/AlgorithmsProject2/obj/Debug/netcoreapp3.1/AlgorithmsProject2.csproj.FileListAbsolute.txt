@@ -1,0 +1,13 @@
+A:\Visual Studios Projects\AlgorithmsProject2\AlgorithmsProject2\bin\Debug\netcoreapp3.1\AlgorithmsProject2.exe
+A:\Visual Studios Projects\AlgorithmsProject2\AlgorithmsProject2\bin\Debug\netcoreapp3.1\AlgorithmsProject2.deps.json
+A:\Visual Studios Projects\AlgorithmsProject2\AlgorithmsProject2\bin\Debug\netcoreapp3.1\AlgorithmsProject2.runtimeconfig.json
+A:\Visual Studios Projects\AlgorithmsProject2\AlgorithmsProject2\bin\Debug\netcoreapp3.1\AlgorithmsProject2.runtimeconfig.dev.json
+A:\Visual Studios Projects\AlgorithmsProject2\AlgorithmsProject2\bin\Debug\netcoreapp3.1\AlgorithmsProject2.dll
+A:\Visual Studios Projects\AlgorithmsProject2\AlgorithmsProject2\bin\Debug\netcoreapp3.1\AlgorithmsProject2.pdb
+A:\Visual Studios Projects\AlgorithmsProject2\AlgorithmsProject2\obj\Debug\netcoreapp3.1\AlgorithmsProject2.csprojAssemblyReference.cache
+A:\Visual Studios Projects\AlgorithmsProject2\AlgorithmsProject2\obj\Debug\netcoreapp3.1\AlgorithmsProject2.csproj.CoreCompileInputs.cache
+A:\Visual Studios Projects\AlgorithmsProject2\AlgorithmsProject2\obj\Debug\netcoreapp3.1\AlgorithmsProject2.AssemblyInfoInputs.cache
+A:\Visual Studios Projects\AlgorithmsProject2\AlgorithmsProject2\obj\Debug\netcoreapp3.1\AlgorithmsProject2.AssemblyInfo.cs
+A:\Visual Studios Projects\AlgorithmsProject2\AlgorithmsProject2\obj\Debug\netcoreapp3.1\AlgorithmsProject2.dll
+A:\Visual Studios Projects\AlgorithmsProject2\AlgorithmsProject2\obj\Debug\netcoreapp3.1\AlgorithmsProject2.pdb
+A:\Visual Studios Projects\AlgorithmsProject2\AlgorithmsProject2\obj\Debug\netcoreapp3.1\AlgorithmsProject2.genruntimeconfig.cache
